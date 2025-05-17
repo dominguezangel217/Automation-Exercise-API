@@ -15,5 +15,3 @@ jobs:
       - name: Run API tests
         run: |
           postman collection run "42929450-518aae05-08b6-4c6b-a431-9efebfc0c95e" -e "42929450-50f1e0f0-f574-4180-9edd-b02c379fe0bc"
-          echo Add other actions to build,
-          echo test, and deploy your project.
